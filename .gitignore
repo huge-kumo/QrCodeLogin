@@ -1,1 +1,3 @@
 /server/configs/*.yaml
+.DS_Store
+.idea
